@@ -8,4 +8,4 @@ To see the script in action, simply run `npm run build` from the root directory 
 
 When the build completes, you should have a new directory full of source map (`*.map`) files.
 
-**Note**: Prior to running the test again, you'll want to delete the `maps` directory (I could've scripted this in, but ¯\_(ツ)_/¯)
+**Note**: Prior to running the test again, you'll want to delete the `maps` directory (I could've scripted this in, but ¯ \ _ (ツ) _ / ¯)
